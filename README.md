@@ -75,10 +75,5 @@
    - Register face data during the first login, linking it to the student’s account for future authentication.
    - Authenticate students using their face before each exam, ensuring the correct student is taking the exam.
 
-2. Bulk Upload and Management:
-   - Enable admins to upload student information in bulk via Excel documents, automating the creation of student accounts and their assignment to classes.
-   - Track the status of bulk upload operations, including any errors encountered during the process, and provide feedback on successful or failed uploads.
-
-3. Logging and Reporting:
-   - Maintain comprehensive logs of face authentication attempts, including the time, date, and result (success or failure) of each attempt.
-   - Generate detailed reports on exam performance, class attendance, and other key metrics for both admins and teachers, aiding in decision-making and strategy formulation.
+## Database Relations
+![db](https://github.com/user-attachments/assets/07c4d471-f7fb-4f3e-9fa8-3b4947a063ad)
